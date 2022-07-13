@@ -3,7 +3,7 @@
     <title>Viajes</title>
     <link href="https://andayanda.github.io/feed.xml" rel="self" />
     <link href="https://andayanda.github.io" />
-    <updated>2022-07-13T12:49:26+02:00</updated>
+    <updated>2022-07-13T12:54:30+02:00</updated>
     <author>
         <name>carmenE</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://andayanda.github.io/asia.html"/>
         <id>https://andayanda.github.io/asia.html</id>
 
-        <updated>2022-07-13T12:49:26+02:00</updated>
+        <updated>2022-07-13T12:54:30+02:00</updated>
             <summary>
                 <![CDATA[
                     Has leído sobre su cultura milenaria y deseas comprobar su efecto en tu propia piel.&nbsp; La gastronomía asiática constituye un viaje en sí&hellip;
@@ -38,9 +38,9 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/camarero-indio.jpg" data-size="1920x1279">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/camarero-indio-thumbnail.jpg" height="480" width="720" alt="Imagen de <a href="https://pixabay.com/es/users/banitatour-1372354/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1514764">BANITA TOUR</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1514764">Pixabay</a>" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/camarero-indio-thumbnail.jpg" height="480" width="720" alt="" />
       </a>
-      
+      <figcaption><a href="https://pixabay.com/es/users/banitatour-1372354/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1514764">BANITA TOUR</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1514764">Pixabay</a></figcaption>
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/dumplings.jpg" data-size="1920x1280">
         <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/dumplings-thumbnail.jpg" height="480" width="720" alt="" />
