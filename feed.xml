@@ -3,34 +3,88 @@
     <title>Viajes</title>
     <link href="https://andayanda.github.io/feed.xml" rel="self" />
     <link href="https://andayanda.github.io" />
-    <updated>2022-07-12T13:35:52+02:00</updated>
+    <updated>2022-07-13T11:54:23+02:00</updated>
     <author>
         <name>carmenE</name>
     </author>
     <id>https://andayanda.github.io</id>
 
     <entry>
-        <title>Ve a donde te lleven tus sueños</title>
+        <title>¿A dónde te llevan tus sueños?</title>
         <author>
             <name>carmenE</name>
         </author>
         <link href="https://andayanda.github.io/ve-a-donde-te-lleven-tus-suenos.html"/>
         <id>https://andayanda.github.io/ve-a-donde-te-lleven-tus-suenos.html</id>
 
-        <updated>2022-07-12T13:35:52+02:00</updated>
+        <updated>2022-07-13T11:54:23+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://andayanda.github.io/media/posts/1/polar-bear-100.jpg" alt="" />
-                    Solo se vive una vez
+                    Sueñas con la cultura milenaria asiática. Sueñas con naturaleza en estado puro. Sueñas con animales exóticos. Sueñas con playas blancas y gente sonriente.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://andayanda.github.io/media/posts/1/polar-bear-100.jpg" alt="" />
                 
-  <p>
-    Solo se vive una vez
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://andayanda.github.io/media/posts/1/gallery/globos-de-aire-capadocia.jpg" data-size="1920x1080">
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/globos-de-aire-capadocia-thumbnail.jpg" height="405" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://andayanda.github.io/media/posts/1/gallery/pinguinos.jpg" data-size="1920x1280">
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/pinguinos-thumbnail.jpg" height="480" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://andayanda.github.io/media/posts/1/gallery/playa-tailandia.jpg" data-size="1920x1200">
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/playa-tailandia-thumbnail.jpg" height="450" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://andayanda.github.io/media/posts/1/gallery/polar-bear-100.jpg" data-size="1892x799">
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/polar-bear-100-thumbnail.jpg" height="304" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://andayanda.github.io/media/posts/1/gallery/skyline-nocturno.jpg" data-size="1920x1280">
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/skyline-nocturno-thumbnail.jpg" height="480" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://andayanda.github.io/media/posts/1/gallery/taj-mahal.jpg" data-size="1920x1241">
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/taj-mahal-thumbnail.jpg" height="465" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p id="efe">
+    Sueñas con la cultura milenaria asiática.
   </p>
+
+  <p>
+    Sueñas con naturaleza en estado puro.
+  </p>
+
+  <p>
+    Sueñas con animales exóticos.<br>
+  </p>
+
+  <p>
+    Sueñas con playas blancas y gente sonriente.
+  </p>
+
+  <p>
+    Sueñas con ciudades de película.
+  </p>
+
+    <h3 id="te-ayudo-a-realizar-tu-sueo" class="align-center">
+      Te ayudo a realizar tu sueño
+    </h3>
             ]]>
         </content>
     </entry>
