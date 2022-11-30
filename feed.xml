@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Viajes</title>
     <link href="https://andayanda.github.io/feed.xml" rel="self" />
     <link href="https://andayanda.github.io" />
@@ -38,27 +38,27 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/camarero-indio.jpg" data-size="1920x1279">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/camarero-indio-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/camarero-indio-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       <figcaption><a href="https://pixabay.com/es/users/banitatour-1372354/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1514764">BANITA TOUR</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1514764">Pixabay</a></figcaption>
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/dumplings.jpg" data-size="1920x1280">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/dumplings-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/dumplings-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/nina-comiendo.jpg" data-size="1280x853">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/nina-comiendo-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/nina-comiendo-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/pastel-de-luna-chino.jpg" data-size="1920x1303">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/pastel-de-luna-chino-thumbnail.jpg" height="489" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/pastel-de-luna-chino-thumbnail.jpg" height="489" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/sushi-2.jpg" data-size="1920x1280">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/sushi-2-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/sushi-2-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure>
@@ -73,52 +73,52 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/taj-mahal.jpg" data-size="1920x1241">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/taj-mahal-thumbnail.jpg" height="465" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/taj-mahal-thumbnail.jpg" height="465" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/estudiantes-musulmanas.jpg" data-size="1920x1280">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/estudiantes-musulmanas-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/estudiantes-musulmanas-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/mujer-bali.jpg" data-size="1280x1920">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/mujer-bali-thumbnail.jpg" height="1080" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/mujer-bali-thumbnail.jpg" height="1080" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/mujer-con-kimono.jpg" data-size="1920x1210">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/mujer-con-kimono-thumbnail.jpg" height="454" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/mujer-con-kimono-thumbnail.jpg" height="454" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/mujer-nyanmar.jpg" data-size="1920x1280">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/mujer-nyanmar-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/mujer-nyanmar-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/mujer-tradicional-vietnam.jpg" data-size="1920x1280">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/mujer-tradicional-vietnam-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/mujer-tradicional-vietnam-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/nepal-ropa-tradicional.jpg" data-size="1920x1271">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/nepal-ropa-tradicional-thumbnail.jpg" height="477" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/nepal-ropa-tradicional-thumbnail.jpg" height="477" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/ramayana-festival.jpg" data-size="1920x1281">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/ramayana-festival-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/ramayana-festival-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/trabajadores-vietnam.jpg" data-size="1920x1148">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/trabajadores-vietnam-thumbnail.jpg" height="431" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/trabajadores-vietnam-thumbnail.jpg" height="431" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/2/gallery/vietnam-sal.jpg" data-size="1920x1280">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/vietnam-sal-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/2/gallery/vietnam-sal-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure>
@@ -148,32 +148,32 @@
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/1/gallery/globos-de-aire-capadocia.jpg" data-size="1920x1080">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/globos-de-aire-capadocia-thumbnail.jpg" height="405" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/globos-de-aire-capadocia-thumbnail.jpg" height="405" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/1/gallery/pinguinos.jpg" data-size="1920x1280">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/pinguinos-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/pinguinos-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/1/gallery/playa-tailandia.jpg" data-size="1920x1200">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/playa-tailandia-thumbnail.jpg" height="450" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/playa-tailandia-thumbnail.jpg" height="450" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/1/gallery/polar-bear-100.jpg" data-size="1892x799">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/polar-bear-100-thumbnail.jpg" height="304" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/polar-bear-100-thumbnail.jpg" height="304" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/1/gallery/skyline-nocturno.jpg" data-size="1920x1280">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/skyline-nocturno-thumbnail.jpg" height="480" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/skyline-nocturno-thumbnail.jpg" height="480" width="720" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
       <a href="https://andayanda.github.io/media/posts/1/gallery/taj-mahal.jpg" data-size="1920x1241">
-        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/taj-mahal-thumbnail.jpg" height="465" width="720" alt="" />
+        <img loading="lazy" src="https://andayanda.github.io/media/posts/1/gallery/taj-mahal-thumbnail.jpg" height="465" width="720" alt="" >
       </a>
       
     </figure>
